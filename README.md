@@ -9,3 +9,8 @@ Car sales
 ---
 ### Tools Used
 #### SQL
+##### pivot tables
+###### Excel dashboard
+###### PowerBi
+---
+
